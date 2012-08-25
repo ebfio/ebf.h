@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[import "ebf.h"]]></title>
+  <title><![CDATA[Eduardo Fonseca]]></title>
   <link href="http://ebf.me/atom.xml" rel="self"/>
   <link href="http://ebf.me/"/>
-  <updated>2012-08-25T12:34:39-03:00</updated>
+  <updated>2012-08-25T12:36:15-03:00</updated>
   <id>http://ebf.me/</id>
   <author>
     <name><![CDATA[Eduardo Fonseca]]></name>
