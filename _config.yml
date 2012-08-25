@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://ebf.me
-title: #import "ebf.h"
+title: import "ebf.h"
 subtitle: Ramblings by a Code Artist.
 author: Eduardo Fonseca
 simple_search: http://google.com/search
